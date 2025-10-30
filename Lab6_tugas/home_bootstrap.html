@@ -58,14 +58,6 @@
       color: #0d6efd;
     }
 
-    /* Cards di bawah (Heading) */
-    .card img.rounded-circle {
-      width: 120px;
-      height: 120px;
-      margin: 15px auto 10px;
-      display: block;
-    }
-
     /* Footer */
     footer {
       border-top: 1px solid #ccc;
@@ -120,30 +112,43 @@
 
     <!-- Main Content -->
     <div id="content" class="row">
+      <!-- Main Area -->
       <main class="col-md-8">
-        <article class="mb-4">
-          <div class="row g-3">
-            <div class="col-md-3">
-              <img src="Logo UPB.jpg" class="img-fluid rounded" alt="">
+        <!-- Featurette 1 -->
+        <div class="card mb-4 shadow-sm">
+          <div class="row g-0 align-items-center">
+            <div class="col-md-3 text-center">
+              <img src="Logo UPB.jpg" class="img-fluid rounded-circle m-3" alt="Logo UPB">
             </div>
             <div class="col-md-9">
-              <h4>First featurette heading.</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem elit, iaculis in nisl volutpat...</p>
+              <div class="card-body">
+                <h5 class="card-title">First featurette heading.</h5>
+                <p class="card-text">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                  Vestibulum lorem elit, iaculis in nisl volutpat, malesuada tincidunt arcu.
+                </p>
+              </div>
             </div>
           </div>
-        </article>
+        </div>
 
-        <article class="mb-4">
-          <div class="row g-3 align-items-center">
+        <!-- Featurette 2 -->
+        <div class="card mb-4 shadow-sm">
+          <div class="row g-0 align-items-center">
             <div class="col-md-9">
-              <h4>Second featurette heading.</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem elit, iaculis in nisl volutpat...</p>
+              <div class="card-body">
+                <h5 class="card-title">Second featurette heading.</h5>
+                <p class="card-text">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                  Vestibulum lorem elit, iaculis in nisl volutpat, malesuada tincidunt arcu.
+                </p>
+              </div>
             </div>
-            <div class="col-md-3">
-              <img src="Logo UPB.jpg" class="img-fluid rounded" alt="">
+            <div class="col-md-3 text-center">
+              <img src="Logo UPB.jpg" class="img-fluid rounded-circle m-3" alt="Logo UPB">
             </div>
           </div>
-        </article>
+        </div>
       </main>
 
       <!-- Sidebar -->
@@ -200,6 +205,7 @@
     }
   </script>
 
+  <!-- Bootstrap JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
