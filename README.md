@@ -171,3 +171,24 @@ Screenshot: Form input email dan textarea pesan.
 
 <img width="1365" height="264" alt="image" src="https://github.com/user-attachments/assets/b6d1faaa-aeb7-49a5-9c46-d57dd48fe6b8" />
 
+
+## Hasil Tugas Praktikum6
+**web sederhana dari Praktikum 4**
+
+<img width="1035" height="593" alt="image" src="https://github.com/user-attachments/assets/c69ec019-e8a3-47fa-b97a-4b96e4711e0d" />
+
+
+**Refactor Form Praktikum 5** 
+
+Menggunakan Form Ganjil Genap
+
+
+<img width="914" height="614" alt="image" src="https://github.com/user-attachments/assets/c7969b86-8d05-402b-8373-8353a6b3969d" />
+
+**Portfolio Sederhana**
+<img width="913" height="605" alt="image" src="https://github.com/user-attachments/assets/31bd359a-1ef9-4d8a-8216-af2332fa2f2d" />
+
+<img width="851" height="469" alt="image" src="https://github.com/user-attachments/assets/bb0741ca-5309-471b-9980-e2dbdbc46f2d" />
+
+
+
